@@ -1,7 +1,7 @@
 ## Goal/Objective
 Build an interactive feature that logs a custom message based on user's choice of ride.
 
-### Steps
+## Steps
 <ins>1.Define outer functions and variables</ins>
 
   Define a list of rides available as an array and create the outer funcion.*This handles the task of ride selection*
